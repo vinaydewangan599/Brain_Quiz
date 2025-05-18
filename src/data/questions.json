@@ -1,0 +1,622 @@
+{
+  "anime": [
+    {
+      "id": 1,
+      "question": "Which anime features a boy who can transform into a half-demon fox?",
+      "options": ["Naruto", "One Piece", "Dragon Ball Z", "Bleach"],
+      "correctOption": 0
+    },
+    {
+      "id": 2,
+      "question": "In 'Death Note', what is the name of the shinigami who drops the Death Note?",
+      "options": ["Rem", "Ryuk", "Kira", "L"],
+      "correctOption": 1
+    },
+    {
+      "id": 3,
+      "question": "Which anime series features the 'Survey Corps' fighting against titans?",
+      "options": ["My Hero Academia", "Tokyo Ghoul", "Attack on Titan", "Demon Slayer"],
+      "correctOption": 2
+    },
+    {
+      "id": 4,
+      "question": "In 'Pokémon', what was Ash Ketchum's starter Pokémon?",
+      "options": ["Bulbasaur", "Charmander", "Squirtle", "Pikachu"],
+      "correctOption": 3
+    },
+    {
+      "id": 5,
+      "question": "Which anime features a high school student who finds a notebook that can kill people?",
+      "options": ["Death Note", "Fullmetal Alchemist", "Code Geass", "Steins;Gate"],
+      "correctOption": 0
+    },
+    {
+      "id": 6,
+      "question": "Which of these is NOT one of the 'Big Three' anime?",
+      "options": ["Naruto", "Bleach", "One Piece", "Attack on Titan"],
+      "correctOption": 3
+    },
+    {
+      "id": 7,
+      "question": "In 'My Hero Academia', what is Midoriya's hero name?",
+      "options": ["All Might", "Deku", "Ground Zero", "Red Riot"],
+      "correctOption": 1
+    },
+    {
+      "id": 8,
+      "question": "Which anime features a boy with a straw hat who wants to become the Pirate King?",
+      "options": ["Fairy Tail", "Black Clover", "One Piece", "Dragon Ball"],
+      "correctOption": 2
+    },
+    {
+      "id": 9,
+      "question": "What power system is used in 'Hunter x Hunter'?",
+      "options": ["Chakra", "Nen", "Quirks", "Magic"],
+      "correctOption": 1
+    },
+    {
+      "id": 10,
+      "question": "Which anime features a group of high school students solving supernatural mysteries?",
+      "options": ["Jujutsu Kaisen", "Ghost Hunt", "Another", "Hyouka"],
+      "correctOption": 3
+    }
+  ],
+  "history": [
+    {
+      "id": 1,
+      "question": "In which year did World War II end?",
+      "options": ["1943", "1944", "1945", "1946"],
+      "correctOption": 2
+    },
+    {
+      "id": 2,
+      "question": "Who was the first president of the United States?",
+      "options": ["Thomas Jefferson", "George Washington", "John Adams", "Benjamin Franklin"],
+      "correctOption": 1
+    },
+    {
+      "id": 3,
+      "question": "The ancient city of Machu Picchu belonged to which civilization?",
+      "options": ["Aztec", "Maya", "Inca", "Olmec"],
+      "correctOption": 2
+    },
+    {
+      "id": 4,
+      "question": "In which year did the French Revolution begin?",
+      "options": ["1789", "1799", "1769", "1779"],
+      "correctOption": 0
+    },
+    {
+      "id": 5,
+      "question": "Which empire was ruled by Genghis Khan?",
+      "options": ["Ottoman Empire", "Roman Empire", "Mongol Empire", "Byzantine Empire"],
+      "correctOption": 2
+    },
+    {
+      "id": 6,
+      "question": "Which country was NOT part of the Allied Powers during World War II?",
+      "options": ["United States", "Soviet Union", "Italy", "United Kingdom"],
+      "correctOption": 2
+    },
+    {
+      "id": 7,
+      "question": "The Renaissance period began in which country?",
+      "options": ["France", "England", "Italy", "Germany"],
+      "correctOption": 2
+    },
+    {
+      "id": 8,
+      "question": "Who wrote 'The Communist Manifesto'?",
+      "options": ["Vladimir Lenin", "Joseph Stalin", "Karl Marx and Friedrich Engels", "Leon Trotsky"],
+      "correctOption": 2
+    },
+    {
+      "id": 9,
+      "question": "The Cold War was primarily a conflict between the United States and which other country?",
+      "options": ["China", "Soviet Union", "North Korea", "Cuba"],
+      "correctOption": 1
+    },
+    {
+      "id": 10,
+      "question": "Which pharaoh is known for his immense burial treasure?",
+      "options": ["Ramses II", "Cleopatra", "Tutankhamun", "Akhenaten"],
+      "correctOption": 2
+    }
+  ],
+  "science": [
+    {
+      "id": 1,
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Go", "Gd", "Au", "Ag"],
+      "correctOption": 2
+    },
+    {
+      "id": 2,
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Jupiter", "Mars", "Saturn"],
+      "correctOption": 2
+    },
+    {
+      "id": 3,
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Platinum", "Diamond", "Titanium", "Quartz"],
+      "correctOption": 1
+    },
+    {
+      "id": 4,
+      "question": "What is the smallest unit of matter?",
+      "options": ["Atom", "Electron", "Quark", "Molecule"],
+      "correctOption": 2
+    },
+    {
+      "id": 5,
+      "question": "Which of these is NOT a type of electromagnetic radiation?",
+      "options": ["X-rays", "Gamma rays", "Sound waves", "Ultraviolet"],
+      "correctOption": 2
+    },
+    {
+      "id": 6,
+      "question": "What process converts sugar into energy in living cells?",
+      "options": ["Photosynthesis", "Respiration", "Digestion", "Fermentation"],
+      "correctOption": 1
+    },
+    {
+      "id": 7,
+      "question": "Which element has the atomic number 1?",
+      "options": ["Oxygen", "Carbon", "Hydrogen", "Helium"],
+      "correctOption": 2
+    },
+    {
+      "id": 8,
+      "question": "What is the main function of white blood cells?",
+      "options": ["Transport oxygen", "Fight infection", "Carry nutrients", "Regulate temperature"],
+      "correctOption": 1
+    },
+    {
+      "id": 9,
+      "question": "What is the speed of light in a vacuum?",
+      "options": ["300,000 km/s", "150,000 km/s", "200,000 km/s", "250,000 km/s"],
+      "correctOption": 0
+    },
+    {
+      "id": 10,
+      "question": "Which scientist proposed the theory of general relativity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Niels Bohr"],
+      "correctOption": 1
+    }
+  ],
+  "sports": [
+    {
+      "id": 1,
+      "question": "In which sport would you perform a slam dunk?",
+      "options": ["Volleyball", "Football", "Basketball", "Tennis"],
+      "correctOption": 2
+    },
+    {
+      "id": 2,
+      "question": "How many players are there in a standard soccer team on the field?",
+      "options": ["9", "10", "11", "12"],
+      "correctOption": 2
+    },
+    {
+      "id": 3,
+      "question": "In which country did the sport of cricket originate?",
+      "options": ["India", "Australia", "England", "South Africa"],
+      "correctOption": 2
+    },
+    {
+      "id": 4,
+      "question": "Which Grand Slam tennis tournament is played on clay courts?",
+      "options": ["Wimbledon", "US Open", "French Open", "Australian Open"],
+      "correctOption": 2
+    },
+    {
+      "id": 5,
+      "question": "How many gold medals has Usain Bolt won at the Olympics?",
+      "options": ["6", "8", "9", "10"],
+      "correctOption": 1
+    },
+    {
+      "id": 6,
+      "question": "In baseball, how many strikes constitute a strikeout?",
+      "options": ["2", "3", "4", "5"],
+      "correctOption": 1
+    },
+    {
+      "id": 7,
+      "question": "Which country won the FIFA World Cup in 2018?",
+      "options": ["Brazil", "Germany", "Argentina", "France"],
+      "correctOption": 3
+    },
+    {
+      "id": 8,
+      "question": "In which Olympic sport would you perform a Vault?",
+      "options": ["Diving", "Gymnastics", "Athletics", "Swimming"],
+      "correctOption": 1
+    },
+    {
+      "id": 9,
+      "question": "How many points is a touchdown worth in American football?",
+      "options": ["3", "6", "7", "9"],
+      "correctOption": 1
+    },
+    {
+      "id": 10,
+      "question": "Which swimmer has won the most Olympic gold medals?",
+      "options": ["Mark Spitz", "Ian Thorpe", "Michael Phelps", "Ryan Lochte"],
+      "correctOption": 2
+    }
+  ],
+  "geography": [
+    {
+      "id": 1,
+      "question": "What is the capital of Canada?",
+      "options": ["Toronto", "Montreal", "Ottawa", "Vancouver"],
+      "correctOption": 2
+    },
+    {
+      "id": 2,
+      "question": "Which is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "correctOption": 3
+    },
+    {
+      "id": 3,
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["China", "Korea", "Thailand", "Japan"],
+      "correctOption": 3
+    },
+    {
+      "id": 4,
+      "question": "What is the largest desert in the world?",
+      "options": ["Sahara Desert", "Antarctic Desert", "Arabian Desert", "Gobi Desert"],
+      "correctOption": 1
+    },
+    {
+      "id": 5,
+      "question": "Which river is the longest in the world?",
+      "options": ["Amazon River", "Nile River", "Mississippi River", "Yangtze River"],
+      "correctOption": 1
+    },
+    {
+      "id": 6,
+      "question": "What is the smallest country in the world by land area?",
+      "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+      "correctOption": 1
+    },
+    {
+      "id": 7,
+      "question": "Which mountain range separates Europe and Asia?",
+      "options": ["Alps", "Himalayas", "Andes", "Ural Mountains"],
+      "correctOption": 3
+    },
+    {
+      "id": 8,
+      "question": "Which country has the most natural lakes?",
+      "options": ["United States", "Russia", "Canada", "Finland"],
+      "correctOption": 2
+    },
+    {
+      "id": 9,
+      "question": "What is the capital of New Zealand?",
+      "options": ["Auckland", "Wellington", "Christchurch", "Hamilton"],
+      "correctOption": 1
+    },
+    {
+      "id": 10,
+      "question": "Which African country was formerly known as Abyssinia?",
+      "options": ["Kenya", "Ethiopia", "Libya", "Sudan"],
+      "correctOption": 1
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "question": "Who directed the movie 'Inception'?",
+      "options": ["Steven Spielberg", "James Cameron", "Christopher Nolan", "Quentin Tarantino"],
+      "correctOption": 2
+    },
+    {
+      "id": 2,
+      "question": "Which actor played Tony Stark/Iron Man in the Marvel Cinematic Universe?",
+      "options": ["Chris Evans", "Chris Hemsworth", "Mark Ruffalo", "Robert Downey Jr."],
+      "correctOption": 3
+    },
+    {
+      "id": 3,
+      "question": "What was the first feature-length animated movie ever released?",
+      "options": ["Bambi", "Snow White and the Seven Dwarfs", "Pinocchio", "Fantasia"],
+      "correctOption": 1
+    },
+    {
+      "id": 4,
+      "question": "Which movie won the Academy Award for Best Picture in 2020?",
+      "options": ["1917", "Joker", "Parasite", "Once Upon a Time in Hollywood"],
+      "correctOption": 2
+    },
+    {
+      "id": 5,
+      "question": "Who played the Joker in 'The Dark Knight'?",
+      "options": ["Jared Leto", "Joaquin Phoenix", "Jack Nicholson", "Heath Ledger"],
+      "correctOption": 3
+    },
+    {
+      "id": 6,
+      "question": "Which film franchise features Harry Potter?",
+      "options": ["The Wizarding World", "Magical Adventures", "Hogwarts Chronicles", "The Wizarding Chronicles"],
+      "correctOption": 0
+    },
+    {
+      "id": 7,
+      "question": "Who directed 'Pulp Fiction'?",
+      "options": ["Martin Scorsese", "Quentin Tarantino", "Francis Ford Coppola", "Stanley Kubrick"],
+      "correctOption": 1
+    },
+    {
+      "id": 8,
+      "question": "Which actress played Katniss Everdeen in 'The Hunger Games'?",
+      "options": ["Emma Watson", "Jennifer Lawrence", "Shailene Woodley", "Emma Stone"],
+      "correctOption": 1
+    },
+    {
+      "id": 9,
+      "question": "What is the highest-grossing film of all time (not adjusted for inflation)?",
+      "options": ["Avengers: Endgame", "Avatar", "Titanic", "Star Wars: The Force Awakens"],
+      "correctOption": 1
+    },
+    {
+      "id": 10,
+      "question": "Which movie features the character Jack Dawson?",
+      "options": ["The Great Gatsby", "Catch Me If You Can", "Titanic", "The Revenant"],
+      "correctOption": 2
+    }
+  ],
+  "music": [
+    {
+      "id": 1,
+      "question": "Which band performed the song 'Bohemian Rhapsody'?",
+      "options": ["The Beatles", "Led Zeppelin", "Queen", "Pink Floyd"],
+      "correctOption": 2
+    },
+    {
+      "id": 2,
+      "question": "Who is known as the 'King of Pop'?",
+      "options": ["Elvis Presley", "Prince", "Michael Jackson", "Justin Timberlake"],
+      "correctOption": 2
+    },
+    {
+      "id": 3,
+      "question": "Which instrument has 88 keys?",
+      "options": ["Organ", "Harpsichord", "Piano", "Synthesizer"],
+      "correctOption": 2
+    },
+    {
+      "id": 4,
+      "question": "Which female artist released the album '21' in 2011?",
+      "options": ["Beyoncé", "Adele", "Taylor Swift", "Rihanna"],
+      "correctOption": 1
+    },
+    {
+      "id": 5,
+      "question": "Which musical genre originated in Jamaica in the late 1960s?",
+      "options": ["Salsa", "Calypso", "Reggae", "Soca"],
+      "correctOption": 2
+    },
+    {
+      "id": 6,
+      "question": "Which band is associated with the album 'Dark Side of the Moon'?",
+      "options": ["Led Zeppelin", "Pink Floyd", "The Rolling Stones", "The Who"],
+      "correctOption": 1
+    },
+    {
+      "id": 7,
+      "question": "Who wrote the opera 'The Magic Flute'?",
+      "options": ["Ludwig van Beethoven", "Johann Sebastian Bach", "Wolfgang Amadeus Mozart", "Franz Schubert"],
+      "correctOption": 2
+    },
+    {
+      "id": 8,
+      "question": "Which of these instruments is not commonly found in a string quartet?",
+      "options": ["Violin", "Viola", "Cello", "Double Bass"],
+      "correctOption": 3
+    },
+    {
+      "id": 9,
+      "question": "Which artist released the hit song 'Shape of You' in 2017?",
+      "options": ["Justin Bieber", "Ed Sheeran", "Bruno Mars", "The Weeknd"],
+      "correctOption": 1
+    },
+    {
+      "id": 10,
+      "question": "Which band's original members included Mick Jagger and Keith Richards?",
+      "options": ["The Beatles", "The Rolling Stones", "The Who", "Led Zeppelin"],
+      "correctOption": 1
+    }
+  ],
+  "technology": [
+    {
+      "id": 1,
+      "question": "Who is the co-founder of Microsoft Corporation?",
+      "options": ["Steve Jobs", "Bill Gates", "Mark Zuckerberg", "Elon Musk"],
+      "correctOption": 1
+    },
+    {
+      "id": 2,
+      "question": "What does CPU stand for?",
+      "options": ["Central Processing Unit", "Computer Personal Unit", "Central Processor Unifier", "Central Process Utility"],
+      "correctOption": 0
+    },
+    {
+      "id": 3,
+      "question": "In which year was the first iPhone released?",
+      "options": ["2005", "2006", "2007", "2008"],
+      "correctOption": 2
+    },
+    {
+      "id": 4,
+      "question": "What does 'HTTP' stand for?",
+      "options": ["Hyper Text Transfer Protocol", "High Tech Transfer Protocol", "Hyper Transfer Text Protocol", "Hybrid Text Technical Protocol"],
+      "correctOption": 0
+    },
+    {
+      "id": 5,
+      "question": "Which company owns Android?",
+      "options": ["Apple", "Microsoft", "Google", "Samsung"],
+      "correctOption": 2
+    },
+    {
+      "id": 6,
+      "question": "What programming language was created by James Gosling?",
+      "options": ["Python", "Java", "C++", "JavaScript"],
+      "correctOption": 1
+    },
+    {
+      "id": 7,
+      "question": "What is the main function of a firewall in computer networks?",
+      "options": ["Speed up data transfer", "Protect against unauthorized access", "Increase storage capacity", "Enhance display resolution"],
+      "correctOption": 1
+    },
+    {
+      "id": 8,
+      "question": "Which social media platform was founded by Mark Zuckerberg?",
+      "options": ["Twitter", "Instagram", "Facebook", "LinkedIn"],
+      "correctOption": 2
+    },
+    {
+      "id": 9,
+      "question": "What does 'URL' stand for?",
+      "options": ["Universal Resource Locator", "Uniform Resource Locator", "Universal Reference Link", "Uniform Reference Locator"],
+      "correctOption": 1
+    },
+    {
+      "id": 10,
+      "question": "Which company developed the first commercially successful graphical web browser?",
+      "options": ["Microsoft", "Netscape", "Apple", "IBM"],
+      "correctOption": 1
+    }
+  ],
+  "food": [
+    {
+      "id": 1,
+      "question": "What is the main ingredient in guacamole?",
+      "options": ["Tomato", "Avocado", "Onion", "Lime"],
+      "correctOption": 1
+    },
+    {
+      "id": 2,
+      "question": "Which country is the origin of the dish Paella?",
+      "options": ["Italy", "France", "Spain", "Mexico"],
+      "correctOption": 2
+    },
+    {
+      "id": 3,
+      "question": "What is the main ingredient in traditional hummus?",
+      "options": ["Lentils", "Black beans", "Chickpeas", "Kidney beans"],
+      "correctOption": 2
+    },
+    {
+      "id": 4,
+      "question": "Which nut is used to make marzipan?",
+      "options": ["Walnut", "Hazelnut", "Almond", "Cashew"],
+      "correctOption": 2
+    },
+    {
+      "id": 5,
+      "question": "What ingredient is Dijon mustard named after?",
+      "options": ["A chef", "A town in France", "A color", "A plant"],
+      "correctOption": 1
+    },
+    {
+      "id": 6,
+      "question": "Which meat is traditionally used in a Shepherd's Pie?",
+      "options": ["Beef", "Lamb", "Pork", "Chicken"],
+      "correctOption": 1
+    },
+    {
+      "id": 7,
+      "question": "What is the primary ingredient in a traditional Japanese miso soup?",
+      "options": ["Soy sauce", "Fish stock", "Miso paste", "Seaweed"],
+      "correctOption": 2
+    },
+    {
+      "id": 8,
+      "question": "Which Italian cheese is traditionally used for making Tiramisu?",
+      "options": ["Ricotta", "Mozzarella", "Mascarpone", "Parmesan"],
+      "correctOption": 2
+    },
+    {
+      "id": 9,
+      "question": "What is the main spice in a traditional Indian Chai tea?",
+      "options": ["Cardamom", "Cinnamon", "Ginger", "Cloves"],
+      "correctOption": 0
+    },
+    {
+      "id": 10,
+      "question": "Which vegetable is known as an 'aubergine' in the UK?",
+      "options": ["Zucchini", "Bell pepper", "Eggplant", "Cucumber"],
+      "correctOption": 2
+    }
+  ],
+  "gaming": [
+    {
+      "id": 1,
+      "question": "Which game features a character named Master Chief?",
+      "options": ["Gears of War", "Call of Duty", "Halo", "Destiny"],
+      "correctOption": 2
+    },
+    {
+      "id": 2,
+      "question": "Which company produces the PlayStation console?",
+      "options": ["Microsoft", "Nintendo", "Sony", "Sega"],
+      "correctOption": 2
+    },
+    {
+      "id": 3,
+      "question": "In which game would you find the character Sephiroth?",
+      "options": ["The Legend of Zelda", "Final Fantasy VII", "Dragon Quest", "Chrono Trigger"],
+      "correctOption": 1
+    },
+    {
+      "id": 4,
+      "question": "Which game features a plumber as its main character?",
+      "options": ["Sonic the Hedgehog", "The Legend of Zelda", "Super Mario Bros", "Crash Bandicoot"],
+      "correctOption": 2
+    },
+    {
+      "id": 5,
+      "question": "Which game was created by Mojang Studios?",
+      "options": ["Terraria", "Roblox", "Minecraft", "Fortnite"],
+      "correctOption": 2
+    },
+    {
+      "id": 6,
+      "question": "In which year was the first Xbox console released?",
+      "options": ["1999", "2001", "2003", "2005"],
+      "correctOption": 1
+    },
+    {
+      "id": 7,
+      "question": "Which game features a protagonist called Kratos?",
+      "options": ["God of War", "Assassin's Creed", "Devil May Cry", "Dark Souls"],
+      "correctOption": 0
+    },
+    {
+      "id": 8,
+      "question": "Which of these games is NOT developed by Blizzard Entertainment?",
+      "options": ["World of Warcraft", "Diablo", "Overwatch", "League of Legends"],
+      "correctOption": 3
+    },
+    {
+      "id": 9,
+      "question": "Which Nintendo character wears a green hat and tunic?",
+      "options": ["Mario", "Link", "Yoshi", "Kirby"],
+      "correctOption": 1
+    },
+    {
+      "id": 10,
+      "question": "Which game franchise features the 'Animus' device?",
+      "options": ["Metal Gear Solid", "Deus Ex", "Assassin's Creed", "Mass Effect"],
+      "correctOption": 2
+    }
+  ]
+}
